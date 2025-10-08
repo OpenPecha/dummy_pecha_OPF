@@ -1,0 +1,355 @@
+{
+    "language": "sa",
+    "content": "दरीमध्ये कश्चित् पुरातनः सेतुः मन्दवाहिनीनद्या उपरि नतः सन् उल्लम्बते स्म।\nकश्चिन् मनुष्यः पथिकः अथवा यात्री सेतुदण्डम् आश्रित्य उपविष्टः श्रुतवान्।\nजम्बुवृक्षेभ्यः पक्षिणः कलरवं चक्रुः।\nपत्राणि लघुवर्तुलवत् पतन्ति स्म।\nसः एकां सूक्तिं स्मृतवान्।\nसेतुं तीर्णे सति अर्धं भयम् अपगतम्।\nपाषाणे उत्कीर्णं नाम तु तेन्जिन् इत्येतस्य अक्षराणि किञ्चित् पठितुं न शक्यन्ते।\nसायं काले विहारस्य मार्गे दीपः स्थापितः।\nकश्चित् बालः पलायमानं श्वानम् अनुसृत्य अदृश्यः अभवत्।\nकश्चित् वृद्धः तं बालकं गृहीतवान्।\nवृद्धः अवदत्।\nअनित्ये मा सज्ज।\nपठनस्य भिन्नाः दिशाः।\nकेषुचित् ग्रन्थेषु, "जीवने मा सज्ज"।\nअन्येषु ग्रन्थेषु, "वस्तुषु मा सज्ज"।\nकश्चित् टिप्पणीकारः तस्याः सूक्तेः व्याख्यानं पुरातनं गानं च समीक्षितवान्।\nएकः ग्रन्थः अत्र समाप्तः।\nअन्यः ग्रन्थः द्वितीयं छन्दम् अनुसृतवान्।\n",
+    "title": "Test Sanskrit Translation",
+    "author": {
+      "ai_id": "gemini 2.5 flash"
+    },
+    "annotation":[
+        {
+            "span": {
+                "start": 0,
+                "end":492
+            },
+            "index": 1,
+            "alignment_index":[]
+        },
+        {
+            "span": {
+                "star": 493,
+                "end": 763
+            },
+            "index": 2,
+            "alignment_index":[]
+        }
+    ],
+    "target_annotation": [
+        {
+            "span": {
+                "start": 0,
+                "end": 73
+            },
+            "index": 1,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 74,
+                "end": 143
+            },
+            "index": 2,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 144,
+                "end": 180
+            },
+            "index": 3,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 181,
+                "end": 219
+            },
+            "index": 4,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 220,
+                "end": 244
+            },
+            "index": 5,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 245,
+                "end": 280
+            },
+            "index": 6,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 281,
+                "end": 341
+            },
+            "index": 7,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 342,
+                "end": 386
+            },
+            "index": 8,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 387,
+                "end": 440
+            },
+            "index": 9,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 441,
+                "end": 472
+            },
+            "index": 10,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 473,
+                "end": 487
+            },
+            "index": 11,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 488, 
+                "end": 505
+            },
+            "index": 12,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 506,
+                "end": 526
+            },
+            "index": 13,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 527,
+                "end": 553
+            },
+            "index": 14,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 554,
+                "end": 590
+            },
+            "index": 15,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 591,
+                "end": 665
+            },
+            "index": 16,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 666,
+                "end": 692
+            },
+            "index": 17,
+            "alignment_index": []
+        },
+        {
+            "span": {
+                "start": 693,
+                "end": 733
+            },
+            "index": 18,
+            "alignment_index": []
+        }
+    ],
+    "alignment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 74
+          },
+          "index": 1,
+          "alignment_index": [
+            1
+          ]
+        },
+        {
+          "span": {
+            "start": 75,
+            "end": 148
+          },
+          "index": 2,
+          "alignment_index": [
+            2
+          ]
+        },
+        {
+          "span": {
+            "start": 149,
+            "end": 186
+          },
+          "index": 3,
+          "alignment_index": [
+            3
+          ]
+        },
+        {
+          "span": {
+            "start": 187,
+            "end": 219
+          },
+          "index": 4,
+          "alignment_index": [
+            4
+          ]
+        },
+        {
+          "span": {
+            "start": 220,
+            "end": 246
+          },
+          "index": 5,
+          "alignment_index": [
+            5
+          ]
+        },
+        {
+          "span": {
+            "start": 247,
+            "end": 282
+          },
+          "index": 6,
+          "alignment_index": [
+            6
+          ]
+        },
+        {
+          "span": {
+            "start": 283,
+            "end": 362
+          },
+          "index": 7,
+          "alignment_index": [
+            7
+          ]
+        },
+        {
+          "span": {
+            "start": 363,
+            "end": 403
+          },
+          "index": 8,
+          "alignment_index": [
+            8
+          ]
+        },
+        {
+          "span": {
+            "start": 404,
+            "end": 457
+          },
+          "index": 9,
+          "alignment_index": [
+            9
+          ]
+        },
+        {
+          "span": {
+            "start": 458,
+            "end": 492
+          },
+          "index": 10,
+          "alignment_index": [
+            10
+          ]
+        },
+        {
+          "span": {
+            "start": 493,
+            "end": 506
+          },
+          "index": 11,
+          "alignment_index": [
+            11
+          ]
+        },
+        {
+          "span": {
+            "start": 507,
+            "end": 523
+          },
+          "index": 12,
+          "alignment_index": [
+            12
+          ]
+        },
+        {
+          "span": {
+            "start": 524,
+            "end": 545
+          },
+          "index": 13,
+          "alignment_index": [
+            13
+          ]
+        },
+        {
+          "span": {
+            "start": 546,
+            "end": 582
+          },
+          "index": 14,
+          "alignment_index": [
+            14
+          ]
+        },
+        {
+          "span": {
+            "start": 583,
+            "end": 620
+          },
+          "index": 15,
+          "alignment_index": [
+            15
+          ]
+        },
+        {
+          "span": {
+            "start": 621,
+            "end": 695
+          },
+          "index": 16,
+          "alignment_index": [
+            16
+          ]
+        },
+        {
+          "span": {
+            "start": 696,
+            "end": 721
+          },
+          "index": 17,
+          "alignment_index": [
+            17
+          ]
+        },
+        {
+          "span": {
+            "start": 722,
+            "end": 763
+          },
+          "index": 18,
+          "alignment_index": [
+            18
+          ]
+        }
+      ],
+    "copyright": "public"
+  }

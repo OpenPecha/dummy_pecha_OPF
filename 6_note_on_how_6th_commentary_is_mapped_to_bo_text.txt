@@ -1,0 +1,2 @@
+Commentary 1 segment to root [1,2,3] mapping  (one to many)
+Commentary 16, 17, 18 to root 18 mapping      (many to one)

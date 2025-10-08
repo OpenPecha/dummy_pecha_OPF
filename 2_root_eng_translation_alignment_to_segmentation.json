@@ -1,0 +1,156 @@
+{
+    "language": "en",
+    "content": "In the valley an old bridge arched over the slow river\nA person traveler or pilgrim paused at the railing and listened\nBirds called from the alders\nLeaves fell like small coins\nHe remembered a proverb\nA bridge crossed is a fear halved\nThe name carved on the stone L Tenzin some letters are illegible\nAt dusk the lanterns were lit along the path to the monastery\nA child chased a stray dog and slipped\nAn elder caught the child\nThe elder said\nDo not cling to that which is passing\nVariant readings\nSome manuscripts give do not cling to life\nSome do not cling to things\nA marginal note explains the proverb and cites an old refrain\nOne witness copy stops here\nAnother continues with a second stanza",
+    "title": "Test English Translation",
+    "author": {
+      "ai_id": "claud 4.5"
+    },
+    "alignment_annotation": [
+        {
+          "span": {
+            "start": 0,
+            "end": 54
+          },
+          "index": 1,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 55,
+            "end": 118
+          },
+          "index": 2,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 119,
+            "end": 147
+          },
+          "index": 3,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 148,
+            "end": 176
+          },
+          "index": 4,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 177,
+            "end": 200
+          },
+          "index": 5,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 201,
+            "end": 234
+          },
+          "index": 6,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 235,
+            "end": 299
+          },
+          "index": 7,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 300,
+            "end": 361
+          },
+          "index": 8,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 362,
+            "end": 400
+          },
+          "index": 9,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 401,
+            "end": 426
+          },
+          "index": 10,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 427,
+            "end": 441
+          },
+          "index": 11,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 442,
+            "end": 479
+          },
+          "index": 12,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 480,
+            "end": 496
+          },
+          "index": 13,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 497,
+            "end": 539
+          },
+          "index": 14,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 540,
+            "end": 567
+          },
+          "index": 15,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 568,
+            "end": 629
+          },
+          "index": 16,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 630,
+            "end": 657
+          },
+          "index": 17,
+          "alignment_index": []
+        },
+        {
+          "span": {
+            "start": 658,
+            "end": 696
+          },
+          "index": 18,
+          "alignment_index": []
+        }
+      ],
+    "copyright": "public"
+  }
+  

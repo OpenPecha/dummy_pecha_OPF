@@ -1,0 +1,16 @@
+{
+    "type": "root",
+    "title": {
+      "en": "Test Root Text",
+      "bo": "གཞུང་དཔེ།"
+    },
+    "language": "bo-x-ewts",
+    "contributions": [
+      {
+        "person_id": "person_id",
+        "role": "author"
+      }
+    ],
+    "date": "2025-10-03",
+    "bdrc": "bdrc_id"
+  }
