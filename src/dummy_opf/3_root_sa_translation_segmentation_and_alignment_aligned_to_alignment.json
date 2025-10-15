@@ -11,16 +11,14 @@
                 "start": 0,
                 "end":492
             },
-            "index": 1,
-            "alignment_index":[]
+            "index": 1
         },
         {
             "span": {
                 "star": 493,
                 "end": 763
             },
-            "index": 2,
-            "alignment_index":[]
+            "index": 2
         }
     ],
     "target_annotation": [

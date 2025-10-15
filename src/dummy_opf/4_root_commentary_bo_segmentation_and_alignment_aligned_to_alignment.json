@@ -11,24 +11,21 @@
             "start": 0,
             "end": 691
           },
-          "index": 1,
-          "alignment_index": []
+          "index": 1
         },
         {
           "span": {
             "start": 692,
             "end": 1400
           },
-          "index": 2,
-          "alignment_index": []
+          "index": 2
         },
         {
           "span": {
             "start": 1401,
             "end": 2050
           },
-          "index": 3,
-          "alignment_index": []
+          "index": 3
         }
     ],
     "target_annotation": [
