@@ -2,145 +2,81 @@
   {
     "span": {
       "start": 0,
-      "end": 506
+      "end": 85
     },
     "index": 1,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 507,
-      "end": 652
+      "start": 86,
+      "end": 146
     },
     "index": 2,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 653,
-      "end": 800
+      "start": 147,
+      "end": 214
     },
     "index": 3,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 801,
-      "end": 953
+      "start": 215,
+      "end": 272
     },
     "index": 4,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 954,
-      "end": 1162
+      "start": 273,
+      "end": 343
     },
     "index": 5,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 1163,
-      "end": 1320
+      "start": 344,
+      "end": 397
     },
     "index": 6,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 1321,
-      "end": 1470
+      "start": 398,
+      "end": 461
     },
     "index": 7,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 1471,
-      "end": 1613
+      "start": 462,
+      "end": 510
     },
     "index": 8,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 1614,
-      "end": 1737
+      "start": 511,
+      "end": 560
     },
     "index": 9,
     "alignment_index": []
   },
   {
     "span": {
-      "start": 1738,
-      "end": 1864
+      "start": 561,
+      "end": 623
     },
     "index": 10,
-    "alignment_index": []
-  },
-  {
-    "span": {
-      "start": 1865,
-      "end": 1991
-    },
-    "index": 11,
-    "alignment_index": []
-  },
-  {
-    "span": {
-      "start": 1992,
-      "end": 2130
-    },
-    "index": 12,
-    "alignment_index": []
-  },
-  {
-    "span": {
-      "start": 2131,
-      "end": 2258
-    },
-    "index": 13,
-    "alignment_index": []
-  },
-  {
-    "span": {
-      "start": 2259,
-      "end": 2447
-    },
-    "index": 14,
-    "alignment_index": []
-  },
-  {
-    "span": {
-      "start": 2448,
-      "end": 2574
-    },
-    "index": 15,
-    "alignment_index": []
-  },
-  {
-    "span": {
-      "start": 2575,
-      "end": 2706
-    },
-    "index": 16,
-    "alignment_index": []
-  },
-  {
-    "span": {
-      "start": 2707,
-      "end": 2855
-    },
-    "index": 17,
-    "alignment_index": []
-  },
-  {
-    "span": {
-      "start": 2856,
-      "end": 2984
-    },
-    "index": 18,
     "alignment_index": []
   }
 ]

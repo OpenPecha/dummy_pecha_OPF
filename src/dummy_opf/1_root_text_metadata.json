@@ -2,7 +2,8 @@
     "type": "root",
     "title": {
       "en": "Test Root Text",
-      "bo": "གཞུང་དཔེ།"
+      "bo": "གཞུང་དཔེ།",
+      "cmg-Mong": "ᠬᠣᠳᠣᠬ ᠳᠣ ᠪᠢᠯᠢᠺ ᠦᠨ ᠴᠢᠨᠠᠳᠣ ᠭᠥᠷᠥᠭᠰᠡᠨ ᠨᠠᠶᠢᠮᠠᠨ ᠮᠢᠩᠭ᠎ᠠ ᠳᠣ"
     },
     "language": "bo",
     "contributions": [

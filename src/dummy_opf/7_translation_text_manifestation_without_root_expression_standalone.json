@@ -1,0 +1,84 @@
+{
+    "metadata": {
+      "type": "critical",
+      "copyright": "public",
+      "bdrc": null,
+      "colophon": "The sun rose slowly over the mountains,",
+      "incipit_title": {
+        "en": "This is english translation without root expression"
+      }
+    },
+    "annotation": [
+        {
+            "span": {
+            "start": 0,
+            "end": 85
+            },
+            "index": 1
+        },
+        {
+            "span": {
+            "start": 86,
+            "end": 146
+            },
+            "index": 2
+        },
+        {
+            "span": {
+            "start": 147,
+            "end": 214
+            },
+            "index": 3
+        },
+        {
+            "span": {
+            "start": 215,
+            "end": 272
+            },
+            "index": 4
+        },
+        {
+            "span": {
+            "start": 273,
+            "end": 343
+            },
+            "index": 5
+        },
+        {
+            "span": {
+            "start": 344,
+            "end": 397
+            },
+            "index": 6
+        },
+        {
+            "span": {
+            "start": 398,
+            "end": 461
+            },
+            "index": 7
+        },
+        {
+            "span": {
+            "start": 462,
+            "end": 510
+            },
+            "index": 8
+        },
+        {
+            "span": {
+            "start": 511,
+            "end": 560
+            },
+            "index": 9
+        },
+        {
+            "span": {
+            "start": 561,
+            "end": 623
+            },
+            "index": 10
+        }
+    ],
+    "content": "The sun rose slowly over the mountains, painting the sky in shades of orange and pink\nShe picked up her coffee mug and took a long, satisfying sip\nThe old bookstore on the corner had been there for over fifty years\nHe decided to take a different route to work that morning\nThe cat stretched lazily on the windowsill, enjoying the warm sunlight\nThey planned to meet at the park around three o'clock\nThe smell of fresh bread wafted from the bakery down the street\nShe opened her laptop and began typing her essay\nThe train arrived at the platform exactly on time\nHe smiled when he heard his favorite song playing on the radio\n"
+  }

@@ -12,7 +12,7 @@ class root_text_manifestation_critical(BaseModel):
     content: str
 
 if __name__ == "__main__":
-    with open("6_root_commentary_bo.txt", "r") as f:
+    with open("7_translation_en_without_root_expression.txt", "r") as f:
         text = f.read()
     
     start = 0

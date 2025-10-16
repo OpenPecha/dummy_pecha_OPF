@@ -1,0 +1,15 @@
+{
+    "type": "translation",
+    "title": {
+      "en": "Test English Translation"
+    },
+    "language": "en",
+    "contributions": [
+      {
+        "ai_id": "claud 4.5",
+        "role": "translator"
+      }
+    ],
+    "date": "2025-10-16",
+    "bdrc": null
+  }
