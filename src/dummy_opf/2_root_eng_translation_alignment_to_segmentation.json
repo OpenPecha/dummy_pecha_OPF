@@ -1,7 +1,9 @@
 {
     "language": "en",
     "content": "In the valley an old bridge arched over the slow river\nA person traveler or pilgrim paused at the railing and listened\nBirds called from the alders\nLeaves fell like small coins\nHe remembered a proverb\nA bridge crossed is a fear halved\nThe name carved on the stone L Tenzin some letters are illegible\nAt dusk the lanterns were lit along the path to the monastery\nA child chased a stray dog and slipped\nAn elder caught the child\nThe elder said\nDo not cling to that which is passing\nVariant readings\nSome manuscripts give do not cling to life\nSome do not cling to things\nA marginal note explains the proverb and cites an old refrain\nOne witness copy stops here\nAnother continues with a second stanza",
-    "title": "Test English Translation",
+    "title": {
+      "en": "Test English Translation"
+    },
     "author": {
       "ai_id": "claud 4.5"
     },
