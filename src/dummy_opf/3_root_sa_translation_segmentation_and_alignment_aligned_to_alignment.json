@@ -153,126 +153,126 @@
             "start": 0,
             "end": 74
           },
-          "alignment_index": 1
+          "alignment_index": [1]
         },
         {
           "span": {
             "start": 75,
             "end": 148
           },
-          "alignment_index": 2
+          "alignment_index": [2]
         },
         {
           "span": {
             "start": 149,
             "end": 186
           },
-          "alignment_index": 3
+          "alignment_index": [3]
         },
         {
           "span": {
             "start": 187,
             "end": 219
           },
-          "alignment_index": 4
+          "alignment_index": [4]
         },
         {
           "span": {
             "start": 220,
             "end": 246
           },
-          "alignment_index": 5
+          "alignment_index": [5]
         },
         {
           "span": {
             "start": 247,
             "end": 282
           },
-          "alignment_index": 6
+          "alignment_index": [6]
         },
         {
           "span": {
             "start": 283,
             "end": 362
           },
-          "alignment_index": 7
+          "alignment_index": [7]
         },
         {
           "span": {
             "start": 363,
             "end": 403
           },
-          "alignment_index": 8
+          "alignment_index": [8]
         },
         {
           "span": {
             "start": 404,
             "end": 457
           },
-          "alignment_index": 9
+          "alignment_index": [9]
         },
         {
           "span": {
             "start": 458,
             "end": 492
           },
-          "alignment_index": 10
+          "alignment_index": [10]
         },
         {
           "span": {
             "start": 493,
             "end": 506
           },
-          "alignment_index": 11
+          "alignment_index": [11]
         },
         {
           "span": {
             "start": 507,
             "end": 523
           },
-          "alignment_index": 12
+          "alignment_index": [12]
         },
         {
           "span": {
             "start": 524,
             "end": 545
           },
-          "alignment_index": 13
+          "alignment_index": [13]
         },
         {
           "span": {
             "start": 546,
             "end": 582
           },
-          "alignment_index": 14
+          "alignment_index": [14]
         },
         {
           "span": {
             "start": 583,
             "end": 620
           },
-          "alignment_index": 15
+          "alignment_index": [15]
         },
         {
           "span": {
             "start": 621,
             "end": 695
           },
-          "alignment_index": 16
+          "alignment_index": [16]
         },
         {
           "span": {
             "start": 696,
             "end": 721
           },
-          "alignment_index": 17
+          "alignment_index": [17]
         },
         {
           "span": {
             "start": 722,
             "end": 763
           },
-          "alignment_index": 18
+          "alignment_index": [18]
         }
       ],
     "copyright": "public"
